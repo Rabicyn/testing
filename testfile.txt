@@ -1,2 +1,2 @@
-meh adding something in doubletest
+meh resolving the conflict in the merge
 adding some text for a new version
