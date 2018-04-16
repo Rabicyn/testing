@@ -1,2 +1,2 @@
-meh making changes to glitch the system
+meh resolving the conflict in the merge
 adding some text for a new version
